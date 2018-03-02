@@ -1,0 +1,10 @@
+/home/vitor-s-silva/NetBeansProjects/auth-server-master/src/main/java/com/example/conf/ResourceServerConfiguration.java
+/home/vitor-s-silva/NetBeansProjects/auth-server-master/src/main/java/com/example/controllers/UserDetailsController.java
+/home/vitor-s-silva/NetBeansProjects/auth-server-master/src/main/java/com/example/conf/ClientResources.java
+/home/vitor-s-silva/NetBeansProjects/auth-server-master/src/main/java/com/example/SocialApplication.java
+/home/vitor-s-silva/NetBeansProjects/auth-server-master/src/main/java/com/example/conf/AuthorizationServerConfigurer.java
+/home/vitor-s-silva/NetBeansProjects/auth-server-master/src/main/java/com/example/conf/SecutiryConfiguration.java
+/home/vitor-s-silva/NetBeansProjects/auth-server-master/src/main/java/com/example/conf/DevDataSourceConfiguration.java
+/home/vitor-s-silva/NetBeansProjects/auth-server-master/src/main/java/com/example/exceptions/Oauth2ExceptionHandler.java
+/home/vitor-s-silva/NetBeansProjects/auth-server-master/src/main/java/com/example/controllers/HomeController.java
+/home/vitor-s-silva/NetBeansProjects/auth-server-master/src/main/java/com/example/conf/TestDataSourceConfiguration.java
